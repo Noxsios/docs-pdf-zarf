@@ -1,0 +1,3 @@
+zarf-docs
+*.pdf
+!dist/*.pdf
